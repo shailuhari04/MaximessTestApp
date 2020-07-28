@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="primaryText">16sp</dimen>
+    <dimen name="buttonText">14sp</dimen>
+    <dimen name="formInputText">14sp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaximessTask</string>
+    <string name="show_btn_text">Show</string>
+    <string name="add_btn_text">Add</string>
+    <string name="edit_btn_text">Edit</string>
+    <string name="name_hint_text">Please Enter Name</string>
+    <string name="salary_hint_text">Please Enter Salary</string>
+    <string name="designation_hint_text">Please Enter Designation</string>
+</resources>
